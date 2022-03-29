@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="62" height="62" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <imagelayer id="2" name="Calque d'Images 1">
+  <image source="sallebillard.png" width="992" height="922"/>
+ </imagelayer>
+</map>
