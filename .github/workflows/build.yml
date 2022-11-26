@@ -12,11 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
-      # Install requirements.txt
-      - name: Install requirements.txt
+      - name: Check out source repository
+        uses: actions/checkout@v3
+      # Install requirements.txt that contains the dependencies
+      - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+          python get-pip.py
+          pip3 install -r requirements.txt
+          apt-get update -y && apt-get install python3-dev -y
       # Get location of customtkinter with pip show customtkinter and assign it to a variable
       - name: Get location of customtkinter
         id: customtkinter
@@ -25,14 +29,14 @@ jobs:
       # Copy customtkinter to the current directory
       - name: Copy customtkinter
         run: |
-          cp -r ${{ steps.customtkinter.outputs.location }}\customtkinter .
+          cp -r ${{ steps.customtkinter.outputs.location }}\/customtkinter .
       # Build using pyinstaller and the customtkinter folder
       - name: Build
         run: |
-          pyinstaller pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter;customtkinter" main.py
+          pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter:customtkinter" main.py
       # Upload the build as an artifact
       - name: Upload build
         uses: actions/upload-artifact@v2
         with:
           name: build
-          path: dist\main
+          path: ./build/main/main
