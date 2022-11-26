@@ -1,0 +1,517 @@
+[17:58:36] [Client thread/INFO]: Setting user: Player418
+[17:58:36] [Client thread/INFO]: (Session ID is token:0:Player418)
+[17:58:38] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[17:58:38] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[17:58:38] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:58:39] [Client thread/INFO]: [OptiFine] 
+[17:58:39] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M6_pre2
+[17:58:39] [Client thread/INFO]: [OptiFine] Build: 20211101-204933
+[17:58:39] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[17:58:39] [Client thread/INFO]: [OptiFine] Java: 16.0.1, Azul Systems, Inc.
+[17:58:39] [Client thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+[17:58:39] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[17:58:39] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GTX 1050/PCIe/SSE2, version 4.6.0 NVIDIA 522.25, NVIDIA Corporation
+[17:58:39] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[17:58:39] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[17:58:39] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 522.25
+[17:58:39] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[17:58:39] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GTX 1050/PCIe/SSE2
+[17:58:39] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:58:39] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:58:39] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:58:39] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:58:39] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[17:58:39] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 572 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1600 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 80 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 400 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 355 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 990 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1200 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 519 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 277 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1000 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 455 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 513 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 450 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1200 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1000 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1920 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1920 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1088 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 857 to 64
+[17:58:39] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 146 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 3072 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1000 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 180 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 270 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 2048 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1190 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 425 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 5024 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 180 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 89 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[17:58:40] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 700 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 2048 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 240 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 2055 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 512 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1024 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 256 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 800 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 128 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 1400 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 500 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 88 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 900 to 64
+[17:58:41] [Client thread/INFO]: [LC MemoryFix] Scaling resource pack icon from 850 to 64
+[17:58:41] [Client thread/INFO]: Reloading ResourceManager: textures, Default, - §3Haze §f[16x].zip
+[17:58:41] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[17:58:41] [Client thread/INFO]: [OptiFine] Resource packs: - §3Haze §f[16x].zip
+[17:58:42] [Client thread/ERROR]: Couldn't initialize twitch stream
+[17:58:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:58:42] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[17:58:42] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:58:42] [Thread-3/INFO]: OpenAL initialized.
+[17:58:42] [Sound Library Loader/INFO]: Sound engine started
+[17:58:44] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[17:58:44] [Client thread/INFO]: [OptiFine] Multitexture: false
+[17:58:44] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:58:44] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[17:58:44] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[17:58:44] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:58:44] [Client thread/INFO]: [OptiFine] Animated sprites: 17
+[17:58:45] [Client thread/INFO]: [LC] Starting Lunar client...
+[17:58:46] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_motionblur.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_motionblur.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bH.IlIIIIllllllIlIIllIIllIll.lIIIllIlIllIlIIlIlIIlIIll(Unknown Source) ~[?:?]
+	at lunar.bH.IlIIIIllllllIlIIllIIllIll.lIIlllllllIIIlIlllIlIlIIl(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IIllIlIIlllIIIIlIllIllIll(Unknown Source) [?:?]
+	at lunar.bH.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIIIIIlllllllIIIIlllIIll(Unknown Source) [?:?]
+	at lunar.dA.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.<init>(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 24 more
+[17:58:46] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IIllIlIIlllIIIIlIllIllIll(Unknown Source) [?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIIIIIlllllllIIIIlllIIll(Unknown Source) [?:?]
+	at lunar.dA.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.<init>(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 24 more
+[17:58:46] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IIllIlIIlllIIIIlIllIllIll(Unknown Source) [?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIIIIIlllllllIIIIlllIIll(Unknown Source) [?:?]
+	at lunar.dA.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.<init>(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 24 more
+[17:58:46] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IIllIlIIlllIIIIlIllIllIll(Unknown Source) [?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIIIIIlllllllIIIIlllIIll(Unknown Source) [?:?]
+	at lunar.dA.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.<init>(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 24 more
+[17:58:46] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IIllIlIIlllIIIIlIllIllIll(Unknown Source) [?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIIIIIlllllllIIIIlllIIll(Unknown Source) [?:?]
+	at lunar.dA.IlIIIIllllllIlIIllIIllIll.<init>(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.<init>(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 24 more
+[17:58:47] [Client thread/INFO]: [LC ThirdParty] Creating mod lunar.gG.IlIIIIllllllIlIIllIIllIll
+[17:58:48] [Client thread/INFO]: [LC ThirdParty] Created mod: SkyblockAddons (1.6.0)
+[17:58:48] [Client thread/INFO]: [LC LANG] Language set as ENGLISH (en_US).
+[17:58:48] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/en_US.
+[17:58:48] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[17:58:48] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/en_US.
+[17:58:50] [Client thread/INFO]: [LC LANG] Language set as ENGLISH (en_US).
+[17:58:50] [Client thread/INFO]: [LC LANG] Language file found: lang/lunar/en_US.
+[17:58:50] [Client thread/INFO]: [LC LANG] Checking language files for skyblockaddons.
+[17:58:50] [Client thread/INFO]: [LC LANG] Language file found: lang/skyblockaddons/en_US.
+[17:58:50] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_motionblur.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_motionblur.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bH.IlIIIIllllllIlIIllIIllIll.lIIIllIlIllIlIIlIlIIlIIll(Unknown Source) ~[?:?]
+	at lunar.bH.IlIIIIllllllIlIIllIIllIll.lIIlllllllIIIlIlllIlIlIIl(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.IlIIIIllllllIlIIllIIllIll(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.update(Unknown Source) [?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aX.IlIIIIllllllIlIIllIIllIll.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aY.IlIlIlllIIlllIlllIlIlllII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dA.lIIIlIllllIIlIlIlIlIIIIIl.llIllIlllIllIlIIIIlIIlIII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.init(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.start(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 29 more
+[17:58:50] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.IlIIIIllllllIlIIllIIllIll(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aX.IlIIIIllllllIlIIllIIllIll.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aY.IlIlIlllIIlllIlllIlIlllII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dA.lIIIlIllllIIlIlIlIlIIIIIl.llIllIlllIllIlIIIIlIIlIII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.init(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.start(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 29 more
+[17:58:50] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.IlIIIIllllllIlIIllIIllIll(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aX.IlIIIIllllllIlIIllIIllIll.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aY.IlIlIlllIIlllIlllIlIlllII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dA.lIIIlIllllIIlIlIlIlIIIIIl.llIllIlllIllIlIIIIlIIlIII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.init(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.start(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 29 more
+[17:58:50] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.IlIIIIllllllIlIIllIIllIll(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aX.IlIIIIllllllIlIIllIIllIll.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aY.IlIlIlllIIlllIlllIlIlllII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dA.lIIIlIllllIIlIlIlIlIIIIIl.llIllIlllIllIlIIIIlIIlIII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.init(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.start(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 29 more
+[17:58:50] [Client thread/WARN]: Failed to load shader: minecraft:shaders/post/lunar_colorsaturation.json
+net.minecraft.v1_8.aheshpaaahhashpassppsspsp: Invalid shaders/program/lunar_colorsaturation.json: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.aheshpaaahhashpassppsspsp.peshapapaaphssehasasppheh(SourceFile:47) ~[?:?]
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:147) ~[?:?]
+	at net.minecraft.v1_8.ssespsapeepeepphaaeehases.<init>(SourceFile:29) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.essapessphaeaapashppheapa(SourceFile:268) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.haaeeeesssasahpappppapphp(SourceFile:138) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.hpehaeeppeeapaahspaheapae(SourceFile:86) ~[?:?]
+	at net.minecraft.v1_8.aahppaehhepspapaaseeaaepp.<init>(SourceFile:52) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.hhsphssaahhssspehahssphsa(EntityRenderer.java:353) ~[?:?]
+	at net.minecraft.v1_8.eeaheasaesapeahesspspeehp.bridge$loadShader(EntityRenderer.java:3132) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.llIIllIIlIIllIIIlllIlIlII(Unknown Source) ~[?:?]
+	at lunar.bk.IlIIIIllllllIlIIllIIllIll.IlIIIIllllllIlIIllIIllIll(Unknown Source) ~[?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.IlIIIIllllllIlIIllIIllIll(Unknown Source) [?:?]
+	at lunar.dV.IIlllIIIIlllllIIIlllllIlI.lIIIIIIlllIIlIIlIIIIlIllI(Unknown Source) [?:?]
+	at lunar.dV.lIlIlIIIIlIIlIlIIlIIlIlII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aX.IlIIIIllllllIlIIllIIllIll.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.aY.IlIlIlllIIlllIlllIlIlllII.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.IlIlIlllIIlllIlllIlIlllII(Unknown Source) [?:?]
+	at lunar.dA.lIIIlIllllIIlIlIlIlIIIIIl.llIllIlllIllIlIIIIlIIlIII(Unknown Source) [?:?]
+	at lunar.dF.lIIIIllIIIIIllIlllllIIIIl.init(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.start(Unknown Source) [?:?]
+	at lunar.av.lIIIIIllIllIIlIIlllIIIlII.<init>(Unknown Source) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.handler$zgm000$impl$startGame$afterInGame(SourceFile:4681) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.hphpeaesseahsahpseaappaph(SourceFile:471) [?:?]
+	at net.minecraft.v1_8.seahphahahssepaspasppaspe.sepaehheshshapeepehapshpe(SourceFile:310) [?:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at com.moonsworth.lunar.patcher.LunarMain.main(Unknown Source) [vpatcher-prod.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hshsapeeessssaaahesshpspa()" because the return value of "net.minecraft.v1_8.epssehhsahpasasphsehppspp.hppehshheasshephhpsppeaaa()" is null
+	at net.minecraft.v1_8.shpaaephseaepseeaesshahse.<init>(SourceFile:135) ~[?:?]
+	... 29 more
+[17:58:51] [Client thread/INFO]: [LC] Debugging has been disabled for ALL type(s).
+[17:58:51] [Client thread/INFO]: [LC Accounts] Attempting to load account [b6b72605d69847e3b3024685fc68a0c5]
+[17:58:51] [Client thread/INFO]: [LC Accounts] Loaded content for [LowHighYT] Token IAT
+[17:58:51] [Client thread/INFO]: [LC Accounts] Removed all accounts [0 count]
+[17:58:51] [Client thread/INFO]: [LC Accounts] Starting Refreshing LowHighYT with 86372839ms till expired (Valid: true).
+[17:58:51] [Client thread/INFO]: [LC Accounts] Starting Refresh
+[17:58:52] [Client thread/INFO]: [LC Accounts] Finishing Refreshing LowHighYT (Valid: true).
+[17:58:52] [Client thread/INFO]: [LC Accounts] Logging into account LowHighYT 
+[17:58:52] [Client thread/INFO]: [LC Accounts] Starting MS auth
+[17:58:52] [Client thread/INFO]: [LC Accounts] After refreshing, sessions is true valid
+[17:58:52] [Client thread/INFO]: [LC] Setting user: LowHighYT
+[17:58:52] [Thread-6/INFO]: [LC Assets] Establishing connection
+[17:58:52] [Thread-6/INFO]: [LC Authentication] Instantiate
+[17:58:52] [Client thread/INFO]: [LC Accounts] Able to login LowHighYT
+[17:58:53] [Client thread/INFO]: [LC] Loaded geckolib cosmetics.
+[17:58:53] [Thread-9/INFO]: [LC Discord] Connected to Discord IPC
+[17:58:53] [Client thread/INFO]: Connecting to eu.minemen.club, 25565
+[17:58:53] [WebSocketConnectReadThread-58/INFO]: [LC Assets] Instantiate
+[17:58:53] [WebSocketConnectReadThread-58/INFO]: [LC Auth] Connection closed (1000, "")
+[17:58:53] [WebSocketConnectReadThread-71/INFO]: [LC Assets] Connection established as LowHighYT
+[17:58:54] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[17:58:54] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world-1.png
+[17:58:54] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world0.png
+[17:58:54] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/lightmap/world1.png
+[17:58:54] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky4.properties
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:mcpatcher/sky/world0/starfield01.png
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky5.properties
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:mcpatcher/sky/world0/starfield02.png
+[17:58:55] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky6.properties
+[17:58:56] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky7.properties
+[17:58:56] [Client thread/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:mcpatcher/sky/world0/sky_sunflare.png
+[17:58:56] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky8.properties
+[17:58:56] [Client thread/INFO]: [OptiFine] CustomSky: Texture not found: minecraft:mcpatcher/sky/world0/sky_sunflare.png
+[17:58:56] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[17:58:58] [Client thread/INFO]: [CHAT] 
+[17:58:58] [Client thread/INFO]: [CHAT] Minemen Club
+[17:58:58] [Client thread/INFO]: [CHAT]  ? Website: minemen.club
+[17:58:58] [Client thread/INFO]: [CHAT]  ? Store: store.minemen.club
+[17:58:58] [Client thread/INFO]: [CHAT]  ? Discord: minemen.club/discord
+[17:58:58] [Client thread/INFO]: [CHAT]  ? Twitter: twitter.com/Minemen_Network
+[17:58:58] [Client thread/INFO]: [CHAT]  ? Rules: minemen.club/rules
+[17:58:58] [Client thread/INFO]: [CHAT] 
+[17:59:04] [SkyblockAddons - #0/INFO]: Started asynchronous task from IIlllIIIIlllllIIIlllllIlI#fetchMagmaBossEstimate.
+[17:59:04] [SkyblockAddons - #0/INFO]: Getting magma boss spawn estimate from server...
+[17:59:04] [SkyblockAddons - #0/INFO]: Got response code 200
+[17:59:04] [SkyblockAddons - #0/INFO]: Query time was 1669481927928, server time estimate is 1669488949571. Updating magma boss spawn to be in 7021 seconds.
+[17:59:04] [SkyblockAddons - #0/INFO]: Asynchronous task from IIlllIIIIlllllIIIlllllIlI#fetchMagmaBossEstimate has finished.
+[17:59:33] [Client thread/INFO]: [CHAT] 
+[17:59:33] [Client thread/INFO]: [CHAT] [MMC] We accept crypto payments: crypto.minemen.club
+[17:59:33] [Client thread/INFO]: [CHAT]  
+[18:01:27] [Client thread/INFO]: [CHAT] Summoned to eu-practice by RedisBungee
+[18:01:29] [Client thread/INFO]: [CHAT]  
+[18:01:29] [Client thread/INFO]: [CHAT] EU Practice
+[18:01:29] [Client thread/INFO]: [CHAT] 1v1s, Parties, Events
+[18:01:29] [Client thread/INFO]: [CHAT] 15+ Games & Duels
+[18:01:29] [Client thread/INFO]: [CHAT]  
+[18:01:29] [Client thread/INFO]: [CHAT]  ? Season: 6 (Started August 27)
+[18:01:29] [Client thread/INFO]: [CHAT]  
+[18:01:29] [Client thread/INFO]: [CHAT]  ? To duel a friend, do: /duel [their name].
+[18:01:29] [Client thread/INFO]: [CHAT]  ? To quick play, right click with your sword.
+[18:01:29] [Client thread/INFO]: [CHAT]  ? To edit a kit, right click with your book.
+[18:01:29] [Client thread/INFO]: [CHAT]  
+[18:01:36] [Client thread/INFO]: Stopping!
+[18:01:36] [Client thread/INFO]: SoundSystem shutting down...
+[18:01:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
