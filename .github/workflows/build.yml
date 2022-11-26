@@ -34,9 +34,13 @@ jobs:
       - name: Build
         run: |
           pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter:customtkinter" main.py
+          ls
+          ls build
+          ls build/main
+          ls build/main/main
       # Upload the build as an artifact
       - name: Upload build
         uses: actions/upload-artifact@v2
         with:
           name: build
-          path: ./build/main/main
+          path: ./build/main/
