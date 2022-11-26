@@ -20,7 +20,7 @@ jobs:
           curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
           python get-pip.py
           pip3 install -r requirements.txt
-          apt-get update -y && apt-get install python3-dev -y
+          sudo apt-get update -y && sudo apt-get install python3-dev -y
       # Get location of customtkinter with pip show customtkinter and assign it to a variable
       - name: Get location of customtkinter
         id: customtkinter
