@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' 
+          python-version: '3.11' 
       - run: pip install -r requirements.txt
       # Get location of customtkinter with pip show customtkinter and assign it to a variable
       - name: Get location of customtkinter
@@ -32,7 +32,7 @@ jobs:
       # Build using pyinstaller and the customtkinter folder
       - name: Build
         run: |
-          pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter;customtkinter" --icon "./icon.ico" --name "arthusclient" main.py
+          pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter;customtkinter" --icon "./icon.ico" --name "arthusclient" "./main.py"
       # Upload the build as an artifact
       - name: Upload build
         uses: actions/upload-artifact@v2
