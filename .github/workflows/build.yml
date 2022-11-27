@@ -32,10 +32,10 @@ jobs:
       # Build using pyinstaller and the customtkinter folder
       - name: Build
         run: |
-          pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter;customtkinter" main.py
+          pyinstaller --noconfirm --onedir --windowed --add-data "customtkinter;customtkinter" --icon "./icon.ico" --name "arthusclient" main.py
       # Upload the build as an artifact
       - name: Upload build
         uses: actions/upload-artifact@v2
         with:
           name: build
-          path: ./build/main/
+          path: ./build
