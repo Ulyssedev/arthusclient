@@ -54,7 +54,10 @@ def start_nite():
             f.write(server)
     else:
         server = ""
-    os.system(f"python ./libs/Nite.py {version} {server}")
+    if os.name != "nt":
+        os.system(f"python3 ./libs/Nite.py {version} {server}")
+    else:
+        os.system(f"./libs/Nite.exe {version} {server}")
 
 startbutton = customtkinter.CTkButton(app, text="Starthus", command=start_nite)
 startbutton.place(relx=0.5, rely=0.55, anchor=customtkinter.CENTER)
