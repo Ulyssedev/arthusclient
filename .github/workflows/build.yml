@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11' 
+          python-version: '3.10' 
       - run: pip install -r requirements.txt
       # Get location of customtkinter with pip show customtkinter and assign it to a variable
       - name: Get location of customtkinter
