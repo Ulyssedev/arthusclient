@@ -1,7 +1,7 @@
-# Arthusclient
-Un projet pour faire un incroyable client en python
+# Tauri + Vanilla TS
 
-## Instruction pour compiler
+This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
 
-Utiliser auto-py-to-exe pour compiler \
-Compiler le setup d'installation avec le fichier.iss
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
